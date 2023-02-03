@@ -22,7 +22,7 @@ zahin="""
 ╚═════════════════════════════════╝
 """
 print(zahin)
-os.system("xdg-open https://www.facebook.com/profile.php?id=100084166897051")
+os.system("xdg-open https://www.facebook.com/Zahin.Saad.04")
 nmbr=input("\033[1;31mENTER VICTIM NUMBER : +880")
 total=int(input("\033[1;33m ENTER SMS AMMOUNT  : "))
 print("""\033[1;32m\n\nWAIT FEW SECOND AND SEE
